@@ -1,5 +1,6 @@
 # magento2-customer-attribute
 How to add a new customer attribute in magento 2
+How to override a template in Magento 2
 
 # See the video about this practice
 
